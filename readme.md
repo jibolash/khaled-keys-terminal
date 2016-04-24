@@ -7,8 +7,11 @@ Be motivated, amused or have a reason to smile or laugh each time you open a new
 ### Setup 
   - Clone the repo or Download the ZIP folder
   - Copy the quotes.sh file to your home folder
-  - Add the command ./quotes.sh to your .zshrc file or .bashrc file (Both files should be in the home folder)
+  - Add the statement **./quotes.sh** anywhere in your .zshrc file or .bashrc file (Both files should be in the home folder)
   - The last step was the last step
 
 ### License
 Prefer motivational quotes? Song lyrics? Jokes? Or maybe philosophical musings are your thing. Modify and share to your heart's content, that's kind of the point.
+
+### Operating Systems
+This script was only tested on MAC OSX.
