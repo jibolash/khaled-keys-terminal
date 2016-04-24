@@ -13,5 +13,5 @@ Be motivated, amused or have a reason to smile or laugh each time you open a new
 ### License
 Prefer motivational quotes? Song lyrics? Jokes? Or maybe philosophical musings are your thing. Modify and share to your heart's content, that's kind of the point.
 
-### Operating Systems
+### Operating System
 This script was only tested on MAC OSX.
